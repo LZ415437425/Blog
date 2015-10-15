@@ -1,3 +1,5 @@
+学习自[总结 Swift 中随机数的使用](http://www.cocoachina.com/swift/20151013/13624.html "总结 Swift 中随机数的使用")
+
 ``` swift
 import UIKit
 

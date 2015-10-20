@@ -1,4 +1,4 @@
-[iOS Storyboard unwind segues使用小结​]: http://blog.csdn.net/kid_devil/article/details/23218195	"iOS Storyboard unwind segues使用小结"
+[iOS Storyboard unwind segues使用小结​]( http://blog.csdn.net/kid_devil/article/details/23218195	"iOS Storyboard unwind segues使用小结")
 
 参考上面的文章可知, 使用unwind segue可以返回前一个viewcontroller, 甚至是更加前面的viewcontroller.
 
@@ -30,7 +30,7 @@
 
 苹果官方的技术文章是说要override 方法viewControllerForUnwindSegueAction, 不过这个方法在ios9中废弃了`@available(iOS, introduced=6.0, deprecated=9.0)`
 
-[Using Unwind Segues​]: https://developer.apple.com/library/ios/technotes/tn2298/_index.html	"Using Unwind Segues"
+[Using Unwind Segues​]( https://developer.apple.com/library/ios/technotes/tn2298/_index.html	"Using Unwind Segues")
 
 目前我的做法是定义多个unwind方法,如下
 

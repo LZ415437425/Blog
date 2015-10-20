@@ -1,3 +1,5 @@
+reffer [Storyboard中的First Responder初步理解](http://www.devdiv.com/storyboard_first_responder_-blog-1-50012.html "Storyboard中的First Responder初步理解")
+
 在storyboard界面中,有个First Responder的图标.
 
 那么它是干什么用的呢? 实践出真知

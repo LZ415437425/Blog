@@ -92,3 +92,9 @@ class ViewController: UIViewController, MFMessageComposeViewControllerDelegate {
 
 
 ```
+
+
+
+**Learn from**
+
+[iOS+Swift: 使用MessageUI.framework发送短信](http://www.bubuko.com/infodetail-434986.html)
